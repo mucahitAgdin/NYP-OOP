@@ -1,0 +1,15 @@
+C:\Users\agdin\Desktop\nesne yönelik programlama\NYP\params\bin\Debug\net7.0\params.exe
+C:\Users\agdin\Desktop\nesne yönelik programlama\NYP\params\bin\Debug\net7.0\params.deps.json
+C:\Users\agdin\Desktop\nesne yönelik programlama\NYP\params\bin\Debug\net7.0\params.runtimeconfig.json
+C:\Users\agdin\Desktop\nesne yönelik programlama\NYP\params\bin\Debug\net7.0\params.dll
+C:\Users\agdin\Desktop\nesne yönelik programlama\NYP\params\bin\Debug\net7.0\params.pdb
+C:\Users\agdin\Desktop\nesne yönelik programlama\NYP\params\obj\Debug\net7.0\params.csproj.AssemblyReference.cache
+C:\Users\agdin\Desktop\nesne yönelik programlama\NYP\params\obj\Debug\net7.0\params.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agdin\Desktop\nesne yönelik programlama\NYP\params\obj\Debug\net7.0\params.AssemblyInfoInputs.cache
+C:\Users\agdin\Desktop\nesne yönelik programlama\NYP\params\obj\Debug\net7.0\params.AssemblyInfo.cs
+C:\Users\agdin\Desktop\nesne yönelik programlama\NYP\params\obj\Debug\net7.0\params.csproj.CoreCompileInputs.cache
+C:\Users\agdin\Desktop\nesne yönelik programlama\NYP\params\obj\Debug\net7.0\params.dll
+C:\Users\agdin\Desktop\nesne yönelik programlama\NYP\params\obj\Debug\net7.0\refint\params.dll
+C:\Users\agdin\Desktop\nesne yönelik programlama\NYP\params\obj\Debug\net7.0\params.pdb
+C:\Users\agdin\Desktop\nesne yönelik programlama\NYP\params\obj\Debug\net7.0\params.genruntimeconfig.cache
+C:\Users\agdin\Desktop\nesne yönelik programlama\NYP\params\obj\Debug\net7.0\ref\params.dll
