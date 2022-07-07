@@ -1,0 +1,15 @@
+C:\Users\agdin\Desktop\nesne yönelik programlama\NYP\bin\Debug\net7.0\NYP.exe
+C:\Users\agdin\Desktop\nesne yönelik programlama\NYP\bin\Debug\net7.0\NYP.deps.json
+C:\Users\agdin\Desktop\nesne yönelik programlama\NYP\bin\Debug\net7.0\NYP.runtimeconfig.json
+C:\Users\agdin\Desktop\nesne yönelik programlama\NYP\bin\Debug\net7.0\NYP.dll
+C:\Users\agdin\Desktop\nesne yönelik programlama\NYP\bin\Debug\net7.0\NYP.pdb
+C:\Users\agdin\Desktop\nesne yönelik programlama\NYP\obj\Debug\net7.0\NYP.csproj.AssemblyReference.cache
+C:\Users\agdin\Desktop\nesne yönelik programlama\NYP\obj\Debug\net7.0\NYP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agdin\Desktop\nesne yönelik programlama\NYP\obj\Debug\net7.0\NYP.AssemblyInfoInputs.cache
+C:\Users\agdin\Desktop\nesne yönelik programlama\NYP\obj\Debug\net7.0\NYP.AssemblyInfo.cs
+C:\Users\agdin\Desktop\nesne yönelik programlama\NYP\obj\Debug\net7.0\NYP.csproj.CoreCompileInputs.cache
+C:\Users\agdin\Desktop\nesne yönelik programlama\NYP\obj\Debug\net7.0\NYP.dll
+C:\Users\agdin\Desktop\nesne yönelik programlama\NYP\obj\Debug\net7.0\refint\NYP.dll
+C:\Users\agdin\Desktop\nesne yönelik programlama\NYP\obj\Debug\net7.0\NYP.pdb
+C:\Users\agdin\Desktop\nesne yönelik programlama\NYP\obj\Debug\net7.0\NYP.genruntimeconfig.cache
+C:\Users\agdin\Desktop\nesne yönelik programlama\NYP\obj\Debug\net7.0\ref\NYP.dll
