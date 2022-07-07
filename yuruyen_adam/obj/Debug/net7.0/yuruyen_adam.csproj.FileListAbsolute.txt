@@ -1,0 +1,15 @@
+C:\Users\agdin\Desktop\nyp\yuruyen_adam\bin\Debug\net7.0\yuruyen_adam.exe
+C:\Users\agdin\Desktop\nyp\yuruyen_adam\bin\Debug\net7.0\yuruyen_adam.deps.json
+C:\Users\agdin\Desktop\nyp\yuruyen_adam\bin\Debug\net7.0\yuruyen_adam.runtimeconfig.json
+C:\Users\agdin\Desktop\nyp\yuruyen_adam\bin\Debug\net7.0\yuruyen_adam.dll
+C:\Users\agdin\Desktop\nyp\yuruyen_adam\bin\Debug\net7.0\yuruyen_adam.pdb
+C:\Users\agdin\Desktop\nyp\yuruyen_adam\obj\Debug\net7.0\yuruyen_adam.csproj.AssemblyReference.cache
+C:\Users\agdin\Desktop\nyp\yuruyen_adam\obj\Debug\net7.0\yuruyen_adam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agdin\Desktop\nyp\yuruyen_adam\obj\Debug\net7.0\yuruyen_adam.AssemblyInfoInputs.cache
+C:\Users\agdin\Desktop\nyp\yuruyen_adam\obj\Debug\net7.0\yuruyen_adam.AssemblyInfo.cs
+C:\Users\agdin\Desktop\nyp\yuruyen_adam\obj\Debug\net7.0\yuruyen_adam.csproj.CoreCompileInputs.cache
+C:\Users\agdin\Desktop\nyp\yuruyen_adam\obj\Debug\net7.0\yuruyen_adam.dll
+C:\Users\agdin\Desktop\nyp\yuruyen_adam\obj\Debug\net7.0\refint\yuruyen_adam.dll
+C:\Users\agdin\Desktop\nyp\yuruyen_adam\obj\Debug\net7.0\yuruyen_adam.pdb
+C:\Users\agdin\Desktop\nyp\yuruyen_adam\obj\Debug\net7.0\yuruyen_adam.genruntimeconfig.cache
+C:\Users\agdin\Desktop\nyp\yuruyen_adam\obj\Debug\net7.0\ref\yuruyen_adam.dll

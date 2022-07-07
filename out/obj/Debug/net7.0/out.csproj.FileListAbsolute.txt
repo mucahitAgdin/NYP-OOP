@@ -1,0 +1,15 @@
+C:\Users\agdin\Desktop\nesne yönelik programlama\out\bin\Debug\net7.0\out.exe
+C:\Users\agdin\Desktop\nesne yönelik programlama\out\bin\Debug\net7.0\out.deps.json
+C:\Users\agdin\Desktop\nesne yönelik programlama\out\bin\Debug\net7.0\out.runtimeconfig.json
+C:\Users\agdin\Desktop\nesne yönelik programlama\out\bin\Debug\net7.0\out.dll
+C:\Users\agdin\Desktop\nesne yönelik programlama\out\bin\Debug\net7.0\out.pdb
+C:\Users\agdin\Desktop\nesne yönelik programlama\out\obj\Debug\net7.0\out.csproj.AssemblyReference.cache
+C:\Users\agdin\Desktop\nesne yönelik programlama\out\obj\Debug\net7.0\out.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agdin\Desktop\nesne yönelik programlama\out\obj\Debug\net7.0\out.AssemblyInfoInputs.cache
+C:\Users\agdin\Desktop\nesne yönelik programlama\out\obj\Debug\net7.0\out.AssemblyInfo.cs
+C:\Users\agdin\Desktop\nesne yönelik programlama\out\obj\Debug\net7.0\out.csproj.CoreCompileInputs.cache
+C:\Users\agdin\Desktop\nesne yönelik programlama\out\obj\Debug\net7.0\out.dll
+C:\Users\agdin\Desktop\nesne yönelik programlama\out\obj\Debug\net7.0\refint\out.dll
+C:\Users\agdin\Desktop\nesne yönelik programlama\out\obj\Debug\net7.0\out.pdb
+C:\Users\agdin\Desktop\nesne yönelik programlama\out\obj\Debug\net7.0\out.genruntimeconfig.cache
+C:\Users\agdin\Desktop\nesne yönelik programlama\out\obj\Debug\net7.0\ref\out.dll

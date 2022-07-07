@@ -1,0 +1,15 @@
+C:\Users\agdin\Desktop\nesne yönelik programlama\abstraction\bin\Debug\net7.0\abstraction.exe
+C:\Users\agdin\Desktop\nesne yönelik programlama\abstraction\bin\Debug\net7.0\abstraction.deps.json
+C:\Users\agdin\Desktop\nesne yönelik programlama\abstraction\bin\Debug\net7.0\abstraction.runtimeconfig.json
+C:\Users\agdin\Desktop\nesne yönelik programlama\abstraction\bin\Debug\net7.0\abstraction.dll
+C:\Users\agdin\Desktop\nesne yönelik programlama\abstraction\bin\Debug\net7.0\abstraction.pdb
+C:\Users\agdin\Desktop\nesne yönelik programlama\abstraction\obj\Debug\net7.0\abstraction.csproj.AssemblyReference.cache
+C:\Users\agdin\Desktop\nesne yönelik programlama\abstraction\obj\Debug\net7.0\abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agdin\Desktop\nesne yönelik programlama\abstraction\obj\Debug\net7.0\abstraction.AssemblyInfoInputs.cache
+C:\Users\agdin\Desktop\nesne yönelik programlama\abstraction\obj\Debug\net7.0\abstraction.AssemblyInfo.cs
+C:\Users\agdin\Desktop\nesne yönelik programlama\abstraction\obj\Debug\net7.0\abstraction.csproj.CoreCompileInputs.cache
+C:\Users\agdin\Desktop\nesne yönelik programlama\abstraction\obj\Debug\net7.0\abstraction.dll
+C:\Users\agdin\Desktop\nesne yönelik programlama\abstraction\obj\Debug\net7.0\refint\abstraction.dll
+C:\Users\agdin\Desktop\nesne yönelik programlama\abstraction\obj\Debug\net7.0\abstraction.pdb
+C:\Users\agdin\Desktop\nesne yönelik programlama\abstraction\obj\Debug\net7.0\abstraction.genruntimeconfig.cache
+C:\Users\agdin\Desktop\nesne yönelik programlama\abstraction\obj\Debug\net7.0\ref\abstraction.dll

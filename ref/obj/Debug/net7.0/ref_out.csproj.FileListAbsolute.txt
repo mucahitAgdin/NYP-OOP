@@ -1,0 +1,15 @@
+C:\Users\agdin\Desktop\nesne yönelik programlama\ref_out\bin\Debug\net7.0\ref_out.exe
+C:\Users\agdin\Desktop\nesne yönelik programlama\ref_out\bin\Debug\net7.0\ref_out.deps.json
+C:\Users\agdin\Desktop\nesne yönelik programlama\ref_out\bin\Debug\net7.0\ref_out.runtimeconfig.json
+C:\Users\agdin\Desktop\nesne yönelik programlama\ref_out\bin\Debug\net7.0\ref_out.dll
+C:\Users\agdin\Desktop\nesne yönelik programlama\ref_out\bin\Debug\net7.0\ref_out.pdb
+C:\Users\agdin\Desktop\nesne yönelik programlama\ref_out\obj\Debug\net7.0\ref_out.csproj.AssemblyReference.cache
+C:\Users\agdin\Desktop\nesne yönelik programlama\ref_out\obj\Debug\net7.0\ref_out.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agdin\Desktop\nesne yönelik programlama\ref_out\obj\Debug\net7.0\ref_out.AssemblyInfoInputs.cache
+C:\Users\agdin\Desktop\nesne yönelik programlama\ref_out\obj\Debug\net7.0\ref_out.AssemblyInfo.cs
+C:\Users\agdin\Desktop\nesne yönelik programlama\ref_out\obj\Debug\net7.0\ref_out.csproj.CoreCompileInputs.cache
+C:\Users\agdin\Desktop\nesne yönelik programlama\ref_out\obj\Debug\net7.0\ref_out.dll
+C:\Users\agdin\Desktop\nesne yönelik programlama\ref_out\obj\Debug\net7.0\refint\ref_out.dll
+C:\Users\agdin\Desktop\nesne yönelik programlama\ref_out\obj\Debug\net7.0\ref_out.pdb
+C:\Users\agdin\Desktop\nesne yönelik programlama\ref_out\obj\Debug\net7.0\ref_out.genruntimeconfig.cache
+C:\Users\agdin\Desktop\nesne yönelik programlama\ref_out\obj\Debug\net7.0\ref\ref_out.dll

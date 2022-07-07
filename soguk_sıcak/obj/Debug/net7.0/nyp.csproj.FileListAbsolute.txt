@@ -1,0 +1,15 @@
+C:\Users\agdin\Desktop\nyp\bin\Debug\net7.0\nyp.exe
+C:\Users\agdin\Desktop\nyp\bin\Debug\net7.0\nyp.deps.json
+C:\Users\agdin\Desktop\nyp\bin\Debug\net7.0\nyp.runtimeconfig.json
+C:\Users\agdin\Desktop\nyp\bin\Debug\net7.0\nyp.dll
+C:\Users\agdin\Desktop\nyp\bin\Debug\net7.0\nyp.pdb
+C:\Users\agdin\Desktop\nyp\obj\Debug\net7.0\nyp.csproj.AssemblyReference.cache
+C:\Users\agdin\Desktop\nyp\obj\Debug\net7.0\nyp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agdin\Desktop\nyp\obj\Debug\net7.0\nyp.AssemblyInfoInputs.cache
+C:\Users\agdin\Desktop\nyp\obj\Debug\net7.0\nyp.AssemblyInfo.cs
+C:\Users\agdin\Desktop\nyp\obj\Debug\net7.0\nyp.csproj.CoreCompileInputs.cache
+C:\Users\agdin\Desktop\nyp\obj\Debug\net7.0\nyp.dll
+C:\Users\agdin\Desktop\nyp\obj\Debug\net7.0\refint\nyp.dll
+C:\Users\agdin\Desktop\nyp\obj\Debug\net7.0\nyp.pdb
+C:\Users\agdin\Desktop\nyp\obj\Debug\net7.0\nyp.genruntimeconfig.cache
+C:\Users\agdin\Desktop\nyp\obj\Debug\net7.0\ref\nyp.dll

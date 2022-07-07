@@ -1,0 +1,15 @@
+C:\Users\agdin\Desktop\nesne yönelik programlama\Constructor_Destructor\obj\Debug\net7.0\Constructor_Destructor.csproj.AssemblyReference.cache
+C:\Users\agdin\Desktop\nesne yönelik programlama\Constructor_Destructor\obj\Debug\net7.0\Constructor_Destructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agdin\Desktop\nesne yönelik programlama\Constructor_Destructor\obj\Debug\net7.0\Constructor_Destructor.AssemblyInfoInputs.cache
+C:\Users\agdin\Desktop\nesne yönelik programlama\Constructor_Destructor\obj\Debug\net7.0\Constructor_Destructor.AssemblyInfo.cs
+C:\Users\agdin\Desktop\nesne yönelik programlama\Constructor_Destructor\obj\Debug\net7.0\Constructor_Destructor.csproj.CoreCompileInputs.cache
+C:\Users\agdin\Desktop\nesne yönelik programlama\Constructor_Destructor\bin\Debug\net7.0\Constructor_Destructor.exe
+C:\Users\agdin\Desktop\nesne yönelik programlama\Constructor_Destructor\bin\Debug\net7.0\Constructor_Destructor.deps.json
+C:\Users\agdin\Desktop\nesne yönelik programlama\Constructor_Destructor\bin\Debug\net7.0\Constructor_Destructor.runtimeconfig.json
+C:\Users\agdin\Desktop\nesne yönelik programlama\Constructor_Destructor\bin\Debug\net7.0\Constructor_Destructor.dll
+C:\Users\agdin\Desktop\nesne yönelik programlama\Constructor_Destructor\bin\Debug\net7.0\Constructor_Destructor.pdb
+C:\Users\agdin\Desktop\nesne yönelik programlama\Constructor_Destructor\obj\Debug\net7.0\Constructor_Destructor.dll
+C:\Users\agdin\Desktop\nesne yönelik programlama\Constructor_Destructor\obj\Debug\net7.0\refint\Constructor_Destructor.dll
+C:\Users\agdin\Desktop\nesne yönelik programlama\Constructor_Destructor\obj\Debug\net7.0\Constructor_Destructor.pdb
+C:\Users\agdin\Desktop\nesne yönelik programlama\Constructor_Destructor\obj\Debug\net7.0\Constructor_Destructor.genruntimeconfig.cache
+C:\Users\agdin\Desktop\nesne yönelik programlama\Constructor_Destructor\obj\Debug\net7.0\ref\Constructor_Destructor.dll
