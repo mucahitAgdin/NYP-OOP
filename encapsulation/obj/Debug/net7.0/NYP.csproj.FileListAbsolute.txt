@@ -1,0 +1,5 @@
+C:\Users\agdin\Desktop\nesne yönelik programlama\NYP\encapsulation\obj\Debug\net7.0\NYP.csproj.AssemblyReference.cache
+C:\Users\agdin\Desktop\nesne yönelik programlama\NYP\encapsulation\obj\Debug\net7.0\NYP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agdin\Desktop\nesne yönelik programlama\NYP\encapsulation\obj\Debug\net7.0\NYP.AssemblyInfoInputs.cache
+C:\Users\agdin\Desktop\nesne yönelik programlama\NYP\encapsulation\obj\Debug\net7.0\NYP.AssemblyInfo.cs
+C:\Users\agdin\Desktop\nesne yönelik programlama\NYP\encapsulation\obj\Debug\net7.0\NYP.csproj.CoreCompileInputs.cache
