@@ -1,0 +1,15 @@
+C:\Users\agdin\Desktop\nesne yönelik programlama\NYP\araba_oyunu\bin\Debug\net7.0\araba_oyunu.exe
+C:\Users\agdin\Desktop\nesne yönelik programlama\NYP\araba_oyunu\bin\Debug\net7.0\araba_oyunu.deps.json
+C:\Users\agdin\Desktop\nesne yönelik programlama\NYP\araba_oyunu\bin\Debug\net7.0\araba_oyunu.runtimeconfig.json
+C:\Users\agdin\Desktop\nesne yönelik programlama\NYP\araba_oyunu\bin\Debug\net7.0\araba_oyunu.dll
+C:\Users\agdin\Desktop\nesne yönelik programlama\NYP\araba_oyunu\bin\Debug\net7.0\araba_oyunu.pdb
+C:\Users\agdin\Desktop\nesne yönelik programlama\NYP\araba_oyunu\obj\Debug\net7.0\araba_oyunu.csproj.AssemblyReference.cache
+C:\Users\agdin\Desktop\nesne yönelik programlama\NYP\araba_oyunu\obj\Debug\net7.0\araba_oyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agdin\Desktop\nesne yönelik programlama\NYP\araba_oyunu\obj\Debug\net7.0\araba_oyunu.AssemblyInfoInputs.cache
+C:\Users\agdin\Desktop\nesne yönelik programlama\NYP\araba_oyunu\obj\Debug\net7.0\araba_oyunu.AssemblyInfo.cs
+C:\Users\agdin\Desktop\nesne yönelik programlama\NYP\araba_oyunu\obj\Debug\net7.0\araba_oyunu.csproj.CoreCompileInputs.cache
+C:\Users\agdin\Desktop\nesne yönelik programlama\NYP\araba_oyunu\obj\Debug\net7.0\araba_oyunu.dll
+C:\Users\agdin\Desktop\nesne yönelik programlama\NYP\araba_oyunu\obj\Debug\net7.0\refint\araba_oyunu.dll
+C:\Users\agdin\Desktop\nesne yönelik programlama\NYP\araba_oyunu\obj\Debug\net7.0\araba_oyunu.pdb
+C:\Users\agdin\Desktop\nesne yönelik programlama\NYP\araba_oyunu\obj\Debug\net7.0\araba_oyunu.genruntimeconfig.cache
+C:\Users\agdin\Desktop\nesne yönelik programlama\NYP\araba_oyunu\obj\Debug\net7.0\ref\araba_oyunu.dll
