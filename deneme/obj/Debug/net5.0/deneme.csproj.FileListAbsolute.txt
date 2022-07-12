@@ -1,0 +1,16 @@
+C:\Users\agdin\OneDrive\Masaüstü\nesne yönelik programlama\NYP\deneme\bin\Debug\net5.0\deneme.exe
+C:\Users\agdin\OneDrive\Masaüstü\nesne yönelik programlama\NYP\deneme\bin\Debug\net5.0\deneme.deps.json
+C:\Users\agdin\OneDrive\Masaüstü\nesne yönelik programlama\NYP\deneme\bin\Debug\net5.0\deneme.runtimeconfig.json
+C:\Users\agdin\OneDrive\Masaüstü\nesne yönelik programlama\NYP\deneme\bin\Debug\net5.0\deneme.runtimeconfig.dev.json
+C:\Users\agdin\OneDrive\Masaüstü\nesne yönelik programlama\NYP\deneme\bin\Debug\net5.0\deneme.dll
+C:\Users\agdin\OneDrive\Masaüstü\nesne yönelik programlama\NYP\deneme\bin\Debug\net5.0\deneme.pdb
+C:\Users\agdin\OneDrive\Masaüstü\nesne yönelik programlama\NYP\deneme\obj\Debug\net5.0\deneme.csproj.AssemblyReference.cache
+C:\Users\agdin\OneDrive\Masaüstü\nesne yönelik programlama\NYP\deneme\obj\Debug\net5.0\deneme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agdin\OneDrive\Masaüstü\nesne yönelik programlama\NYP\deneme\obj\Debug\net5.0\deneme.AssemblyInfoInputs.cache
+C:\Users\agdin\OneDrive\Masaüstü\nesne yönelik programlama\NYP\deneme\obj\Debug\net5.0\deneme.AssemblyInfo.cs
+C:\Users\agdin\OneDrive\Masaüstü\nesne yönelik programlama\NYP\deneme\obj\Debug\net5.0\deneme.csproj.CoreCompileInputs.cache
+C:\Users\agdin\OneDrive\Masaüstü\nesne yönelik programlama\NYP\deneme\obj\Debug\net5.0\deneme.dll
+C:\Users\agdin\OneDrive\Masaüstü\nesne yönelik programlama\NYP\deneme\obj\Debug\net5.0\refint\deneme.dll
+C:\Users\agdin\OneDrive\Masaüstü\nesne yönelik programlama\NYP\deneme\obj\Debug\net5.0\deneme.pdb
+C:\Users\agdin\OneDrive\Masaüstü\nesne yönelik programlama\NYP\deneme\obj\Debug\net5.0\deneme.genruntimeconfig.cache
+C:\Users\agdin\OneDrive\Masaüstü\nesne yönelik programlama\NYP\deneme\obj\Debug\net5.0\ref\deneme.dll
