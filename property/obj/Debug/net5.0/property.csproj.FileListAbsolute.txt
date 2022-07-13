@@ -14,3 +14,6 @@ C:\Users\agdin\OneDrive\Masaüstü\nesne yönelik programlama\NYP\property\obj\D
 C:\Users\agdin\OneDrive\Masaüstü\nesne yönelik programlama\NYP\property\obj\Debug\net5.0\property.pdb
 C:\Users\agdin\OneDrive\Masaüstü\nesne yönelik programlama\NYP\property\obj\Debug\net5.0\property.genruntimeconfig.cache
 C:\Users\agdin\OneDrive\Masaüstü\nesne yönelik programlama\NYP\property\obj\Debug\net5.0\ref\property.dll
+C:\Users\agdin\OneDrive\Masaüstü\nesne yönelik programlama\NYP\property\bin\Debug\net5.0\_lib.dll
+C:\Users\agdin\OneDrive\Masaüstü\nesne yönelik programlama\NYP\property\bin\Debug\net5.0\_lib.pdb
+C:\Users\agdin\OneDrive\Masaüstü\nesne yönelik programlama\NYP\property\obj\Debug\net5.0\property.csproj.CopyComplete

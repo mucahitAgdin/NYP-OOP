@@ -1,5 +1,11 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
+<ItemGroup>
+  <Reference Include="MyAssembly">
+    <HintPath>C:\Users\agdin\OneDrive\Masaüstü\nesne yönelik programlama\NYP\_lib\bin\Debug\net5.0\_lib.dll</HintPath>
+</Reference>
+
+</ItemGroup>
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>

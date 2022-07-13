@@ -1,0 +1,12 @@
+C:\Users\agdin\OneDrive\Masaüstü\nesne yönelik programlama\NYP\_lib\bin\Debug\net5.0\_lib.deps.json
+C:\Users\agdin\OneDrive\Masaüstü\nesne yönelik programlama\NYP\_lib\bin\Debug\net5.0\_lib.dll
+C:\Users\agdin\OneDrive\Masaüstü\nesne yönelik programlama\NYP\_lib\bin\Debug\net5.0\_lib.pdb
+C:\Users\agdin\OneDrive\Masaüstü\nesne yönelik programlama\NYP\_lib\obj\Debug\net5.0\_lib.csproj.AssemblyReference.cache
+C:\Users\agdin\OneDrive\Masaüstü\nesne yönelik programlama\NYP\_lib\obj\Debug\net5.0\_lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agdin\OneDrive\Masaüstü\nesne yönelik programlama\NYP\_lib\obj\Debug\net5.0\_lib.AssemblyInfoInputs.cache
+C:\Users\agdin\OneDrive\Masaüstü\nesne yönelik programlama\NYP\_lib\obj\Debug\net5.0\_lib.AssemblyInfo.cs
+C:\Users\agdin\OneDrive\Masaüstü\nesne yönelik programlama\NYP\_lib\obj\Debug\net5.0\_lib.csproj.CoreCompileInputs.cache
+C:\Users\agdin\OneDrive\Masaüstü\nesne yönelik programlama\NYP\_lib\obj\Debug\net5.0\_lib.dll
+C:\Users\agdin\OneDrive\Masaüstü\nesne yönelik programlama\NYP\_lib\obj\Debug\net5.0\refint\_lib.dll
+C:\Users\agdin\OneDrive\Masaüstü\nesne yönelik programlama\NYP\_lib\obj\Debug\net5.0\_lib.pdb
+C:\Users\agdin\OneDrive\Masaüstü\nesne yönelik programlama\NYP\_lib\obj\Debug\net5.0\ref\_lib.dll

@@ -1,4 +1,5 @@
 ﻿using System;
+using _lib;
 
 namespace property
 {
@@ -53,11 +54,10 @@ namespace property
     {
         static void Main(string[] args)
         {
-            Daire nesne0 = new Daire(5); // constructor ile
-            //nesne0.set_Yaricap(3);
-            //Console.WriteLine("çevresi: " + nesne0.cevre_hesapla());
-            //nesne0.Yaricap = 5; // constructor'sız Daire(5) şeklinde değil new Daire(); şeklinde
+            Class1 nesne02 = new Class1();
+            Daire nesne0 = new Daire(nesne02.r); // constructor ile
             Console.WriteLine("çevresi: " + nesne0.cevre);
+            Console.WriteLine("r: "+ nesne02.r);
         }
     }
 }
