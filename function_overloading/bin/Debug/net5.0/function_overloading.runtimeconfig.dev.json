@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\agdin\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\agdin\\.nuget\\packages"
+    ]
+  }
+}
