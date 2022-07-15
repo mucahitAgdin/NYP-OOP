@@ -1,0 +1,16 @@
+C:\Users\agdin\OneDrive\Masaüstü\nesne yönelik programlama\NYP\constructor_overloading\bin\Debug\net5.0\constructor_overloading.exe
+C:\Users\agdin\OneDrive\Masaüstü\nesne yönelik programlama\NYP\constructor_overloading\bin\Debug\net5.0\constructor_overloading.deps.json
+C:\Users\agdin\OneDrive\Masaüstü\nesne yönelik programlama\NYP\constructor_overloading\bin\Debug\net5.0\constructor_overloading.runtimeconfig.json
+C:\Users\agdin\OneDrive\Masaüstü\nesne yönelik programlama\NYP\constructor_overloading\bin\Debug\net5.0\constructor_overloading.runtimeconfig.dev.json
+C:\Users\agdin\OneDrive\Masaüstü\nesne yönelik programlama\NYP\constructor_overloading\bin\Debug\net5.0\constructor_overloading.dll
+C:\Users\agdin\OneDrive\Masaüstü\nesne yönelik programlama\NYP\constructor_overloading\bin\Debug\net5.0\constructor_overloading.pdb
+C:\Users\agdin\OneDrive\Masaüstü\nesne yönelik programlama\NYP\constructor_overloading\obj\Debug\net5.0\constructor_overloading.csproj.AssemblyReference.cache
+C:\Users\agdin\OneDrive\Masaüstü\nesne yönelik programlama\NYP\constructor_overloading\obj\Debug\net5.0\constructor_overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agdin\OneDrive\Masaüstü\nesne yönelik programlama\NYP\constructor_overloading\obj\Debug\net5.0\constructor_overloading.AssemblyInfoInputs.cache
+C:\Users\agdin\OneDrive\Masaüstü\nesne yönelik programlama\NYP\constructor_overloading\obj\Debug\net5.0\constructor_overloading.AssemblyInfo.cs
+C:\Users\agdin\OneDrive\Masaüstü\nesne yönelik programlama\NYP\constructor_overloading\obj\Debug\net5.0\constructor_overloading.csproj.CoreCompileInputs.cache
+C:\Users\agdin\OneDrive\Masaüstü\nesne yönelik programlama\NYP\constructor_overloading\obj\Debug\net5.0\constructor_overloading.dll
+C:\Users\agdin\OneDrive\Masaüstü\nesne yönelik programlama\NYP\constructor_overloading\obj\Debug\net5.0\refint\constructor_overloading.dll
+C:\Users\agdin\OneDrive\Masaüstü\nesne yönelik programlama\NYP\constructor_overloading\obj\Debug\net5.0\constructor_overloading.pdb
+C:\Users\agdin\OneDrive\Masaüstü\nesne yönelik programlama\NYP\constructor_overloading\obj\Debug\net5.0\constructor_overloading.genruntimeconfig.cache
+C:\Users\agdin\OneDrive\Masaüstü\nesne yönelik programlama\NYP\constructor_overloading\obj\Debug\net5.0\ref\constructor_overloading.dll
